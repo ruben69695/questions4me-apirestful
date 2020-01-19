@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '(golt31^o-+g0my0^7-4n3k@i8!-dby(os*n!d(3_ro944yen4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 # DEPLOYMENT: don't run with azure turned on if you are not ready to deploy it on azure
 AZURE = False
