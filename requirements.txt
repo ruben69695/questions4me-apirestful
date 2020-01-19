@@ -4,4 +4,4 @@ django-cors-headers==3.2.1
 psycopg2==2.8.4
 azure-keyvault==4.0.0
 msrestazure==0.6.2
-django-heroku==0.3.1
+netifaces==0.10.9
