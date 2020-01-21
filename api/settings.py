@@ -103,7 +103,7 @@ if AZURE:
 
     # Get User Secret
     secret_user_keyname = 'PostgresUserName'
-    user_secret_bundle = client.get_secret(secret_user_keyname, version='eae4650dffa3466b97bbc733009f7647')
+    user_secret_bundle = client.get_secret(secret_user_keyname, version='4a5809618c2849cda828d0c28a2a5b09')
 
     # Get Password Secret
     secret_password_keyname = 'PostgresPassword'
